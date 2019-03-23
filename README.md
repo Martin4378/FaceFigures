@@ -1,6 +1,7 @@
 # FaceFigures
 
 import java.util.Scanner;
+
 public class P19_FaceFigures {
     public static void main(String[] args) {
 
